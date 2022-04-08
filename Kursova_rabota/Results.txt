@@ -1,0 +1,6 @@
+Nomenclature number: CI214
+Name: Capacitor
+Value: 40pF
+Made in: Italy
+Price: 1.00$
+

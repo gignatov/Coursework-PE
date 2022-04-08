@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638701974 source:c:\users\bttadmin\desktop\c++\kursova_rabota\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
